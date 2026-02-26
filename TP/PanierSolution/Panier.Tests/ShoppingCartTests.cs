@@ -21,6 +21,11 @@ public class ShoppingCartTests
         Assert.AreEqual(0, _cart.GetTotal());
     }
 
+    [TestMethod]
+    public void ApplyDiscount_When_EmptyCart_Then_EmptyCartApplyDiscountException()
+    {
+        Assert.ThrowsExactly<EmptyCartApplyDiscountException>(() => _cart.ApplyDiscount(0.3m));
+    }
 
     [TestMethod]
     public void AddItem_Name_Is_Not_Null()
