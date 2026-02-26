@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exercices.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -10,9 +11,9 @@ namespace Exercices
 
         public List<String> Rechercher(String mot)
         {
+            if (mot.Length <= 2) throw new NotFoundException("Votre recherche doit contenir plus de 2 caractères");
 
             return _villes;
-            throw new NotImplementedException();
         }
     }
 }
