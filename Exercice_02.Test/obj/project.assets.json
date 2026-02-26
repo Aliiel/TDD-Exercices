@@ -1075,14 +1075,14 @@
           }
         }
       },
-      "Exercice_01/1.0.0": {
+      "Exercices/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/Exercice_01.dll": {}
+          "bin/placeholder/Exercices.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Exercice_01.dll": {}
+          "bin/placeholder/Exercices.dll": {}
         }
       }
     }
@@ -2278,15 +2278,15 @@
         "packageIcon.png"
       ]
     },
-    "Exercice_01/1.0.0": {
+    "Exercices/1.0.0": {
       "type": "project",
-      "path": "../Exercices/Exercice_01.csproj",
-      "msbuildProject": "../Exercices/Exercice_01.csproj"
+      "path": "../Exercices/Exercices.csproj",
+      "msbuildProject": "../Exercices/Exercices.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Exercice_01 >= 1.0.0",
+      "Exercices >= 1.0.0",
       "MSTest >= 4.0.1"
     ]
   },
@@ -2322,8 +2322,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj": {
-              "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj"
+            "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {
+              "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj"
             }
           }
         }

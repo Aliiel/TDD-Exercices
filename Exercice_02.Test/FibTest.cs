@@ -24,6 +24,9 @@ public class FibTest
 
         // Assert 
         Assert.AreNotEqual(0, results.Count());
+
+        // Autres possibilités 
+        Assert.IsNotNull(results);
     }
 
     [TestMethod]
@@ -38,6 +41,9 @@ public class FibTest
 
         // Assert 
         CollectionAssert.AreEquivalent(expected, results);
+
+        // Other way 
+        Assert.Contains(0, results);
     }
 
 
@@ -52,6 +58,10 @@ public class FibTest
 
         // Assert 
         Assert.Contains(3, results);
+
+        // Collection way 
+        CollectionAssert.Contains(results, 3);
+        
     }
 
     [TestMethod]
@@ -78,10 +88,13 @@ public class FibTest
 
         // Assert 
         Assert.DoesNotContain(4, results);
+
+        // Collection way 
+        CollectionAssert.DoesNotContain(results, 4);
     }
 
     [TestMethod]
-    public void GetFibSeries_Range6_ThenResultMatchesToCollection()
+    public void GetFibSeries_Range6_ThenResultContains_0_1_1_2_3_5()
     {
         // Arrange 
         Setup(6);
@@ -102,9 +115,15 @@ public class FibTest
 
         // Act 
         List<int> results = _fib.GetFibSeries();
-        List<int> resultsSorted = null;
+        List<int> resultsSorted = results.OrderBy(x => x).ToList();
 
         // Assert 
         CollectionAssert.AreEquivalent(resultsSorted, results);
+
+        // Other way 
+        List<int> expectedWithSort = new List<int>(results);
+        results.Sort();
+
+        CollectionAssert.AreEquivalent(expectedWithSort, resultsSorted);
     }
 }

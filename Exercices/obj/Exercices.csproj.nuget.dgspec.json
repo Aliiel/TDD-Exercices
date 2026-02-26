@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {}
+    "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {
+    "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
         "projectName": "Exercices",
-        "projectPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\Documents\\poec_net_1512\\TDD\\Exercices\\Exercices\\Exercices\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

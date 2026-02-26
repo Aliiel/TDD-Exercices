@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{7C3E3466-3EDC-4FD3-9F64-35073C719663}|Exercice_02.Test\\Exercice_02.Test.csproj|solutionrelative:exercice_02.test\\fibtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{407FBD44-8496-FD82-A7E1-5573DAA3E61B}|Exercices\\Exercice_01.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercices\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{407FBD44-8496-FD82-A7E1-5573DAA3E61B}|Exercices\\Exercice_01.csproj|solutionrelative:exercices\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5509FB11-0232-71E1-82B6-6290E1DB6511}|Exercice_01.Test\\Exercice_01.Test.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercice_01.test\\gradingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5509FB11-0232-71E1-82B6-6290E1DB6511}|Exercice_01.Test\\Exercice_01.Test.csproj|solutionrelative:exercice_01.test\\gradingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{407FBD44-8496-FD82-A7E1-5573DAA3E61B}|Exercices\\Exercice_01.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercices\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{407FBD44-8496-FD82-A7E1-5573DAA3E61B}|Exercices\\Exercice_01.csproj|solutionrelative:exercices\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5509FB11-0232-71E1-82B6-6290E1DB6511}|Exercice_01.Test\\Exercice_01.Test.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercice_01.test\\exercice_01.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5509FB11-0232-71E1-82B6-6290E1DB6511}|Exercice_01.Test\\Exercice_01.Test.csproj|solutionrelative:exercice_01.test\\exercice_01.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{407FBD44-8496-FD82-A7E1-5573DAA3E61B}|Exercices\\Exercice_01.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{407FBD44-8496-FD82-A7E1-5573DAA3E61B}|Exercices\\Exercice_01.csproj|solutionrelative:exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D7EC0B-9394-B164-DA18-9F12CCCD576B}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercices\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EC0B-9394-B164-DA18-9F12CCCD576B}|Exercices\\Exercices.csproj|solutionrelative:exercices\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EC0B-9394-B164-DA18-9F12CCCD576B}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercices\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EC0B-9394-B164-DA18-9F12CCCD576B}|Exercices\\Exercices.csproj|solutionrelative:exercices\\gradingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D7EC0B-9394-B164-DA18-9F12CCCD576B}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercices\\exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D7EC0B-9394-B164-DA18-9F12CCCD576B}|Exercices\\Exercices.csproj|solutionrelative:exercices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "Exercice_02.Test\\FibTest.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercice_02.Test\\FibTest.cs",
               "RelativeToolTip": "Exercice_02.Test\\FibTest.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T15:00:46.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Fib.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Fib.cs",
               "RelativeDocumentMoniker": "Exercices\\Fib.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "Exercices\\Fib.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T14:57:50.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:57:50.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Exercice_01.Test.csproj",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercice_01.Test\\Exercice_01.Test.csproj",
               "RelativeDocumentMoniker": "Exercice_01.Test\\Exercice_01.Test.csproj",
@@ -80,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GradingCalculatorTest.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercice_01.Test\\GradingCalculatorTest.cs",
               "RelativeDocumentMoniker": "Exercice_01.Test\\GradingCalculatorTest.cs",
@@ -88,12 +87,11 @@
               "RelativeToolTip": "Exercice_01.Test\\GradingCalculatorTest.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAmwHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:52:45.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:52:45.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GradingCalculator.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\GradingCalculator.cs",
               "RelativeDocumentMoniker": "Exercices\\GradingCalculator.cs",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Exercices\\GradingCalculator.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:50:42.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T10:50:42.32Z"
             },
             {
               "$type": "Document",

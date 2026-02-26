@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj",
-      "projectName": "Exercice_01",
-      "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj",
+      "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
+      "projectName": "Exercices",
+      "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
       "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\obj\\",
       "projectStyle": "PackageReference",

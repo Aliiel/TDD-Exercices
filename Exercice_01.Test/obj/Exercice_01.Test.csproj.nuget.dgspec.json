@@ -4,12 +4,12 @@
     "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercice_01.Test\\Exercice_01.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj": {
+    "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj",
-        "projectName": "Exercice_01",
-        "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
+        "projectName": "Exercices",
+        "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\obj\\",
         "projectStyle": "PackageReference",
@@ -371,8 +371,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj": {
-                "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercice_01.csproj"
+              "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj": {
+                "projectPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercices\\Exercices\\Exercices.csproj"
               }
             }
           }
