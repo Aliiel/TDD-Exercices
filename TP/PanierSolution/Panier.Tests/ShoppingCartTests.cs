@@ -6,12 +6,19 @@ namespace Panier.Tests;
 [TestClass]
 public class ShoppingCartTests
 {
-    private ShoppingCart _cart = new();
+    private ShoppingCart _cart = new ShoppingCart(new List<CartItem>());
+
 
     [TestMethod]
-    public void NewCart_Contains_0_Articles()
+    public void GetItemCount_NewCart_Contains_0_Articles()
     {
         Assert.AreEqual(0, _cart.GetItemCount());
+    }
+
+    [TestMethod]
+    public void GetTotal_EmptyCart_Return_0()
+    {
+        Assert.AreEqual(0, _cart.GetTotal());
     }
 
 

@@ -7,12 +7,17 @@ namespace Panier.Core
 {
     public sealed class ShoppingCart
     {
+        private List<CartItem> _cart;
+        private decimal _total;
 
-        List<CartItem> Cart = new List<CartItem>();
+        public ShoppingCart(List<CartItem> Cart)
+        {
+            _cart = Cart;
+        }
 
         public int GetItemCount()
         {
-            throw new NotImplementedException();
+            return _cart.Count;
         } 
 
         public void AddItem(string name, decimal price, int quantity)
@@ -24,7 +29,12 @@ namespace Panier.Core
 
         public decimal GetTotal()
         {
-            throw new NotImplementedException();
+            foreach (CartItem item in _cart)
+            {
+                _total += item.Price;
+            }
+
+            return _total;
         } 
 
         public void ApplyDiscount(decimal percentage)
