@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Panier.Core.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -13,6 +14,8 @@ namespace Panier.Core
 
         public void AddItem(string name, decimal price, int quantity)
         {
+            if (name  == null) throw new CartItemNameException("Le nom de l'article ne peut pas être nul");
+
             throw new NotImplementedException();
         }
 

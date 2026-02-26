@@ -12,7 +12,7 @@ public class ShoppingCartTests
     public void AddItem_Name_Is_Not_Null()
     {
         // Assert 
-        Assert.Throws<CartItemNameNotNullException>(() => _cart.AddItem(null, 12.3m, 3));
+        Assert.Throws<CartItemNameException>(() => _cart.AddItem(null, 12.3m, 3));
     }
    
 }
