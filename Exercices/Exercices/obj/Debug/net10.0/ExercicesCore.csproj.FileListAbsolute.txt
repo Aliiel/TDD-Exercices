@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\bin\Debug\net10.0\ExercicesCore.exe
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\bin\Debug\net10.0\ExercicesCore.deps.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\bin\Debug\net10.0\ExercicesCore.runtimeconfig.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\bin\Debug\net10.0\ExercicesCore.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\bin\Debug\net10.0\ExercicesCore.pdb
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.sourcelink.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\refint\ExercicesCore.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.pdb
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ExercicesCore.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercices\obj\Debug\net10.0\ref\ExercicesCore.dll

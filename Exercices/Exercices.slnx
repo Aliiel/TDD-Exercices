@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="Exercices/Exercices.csproj" />
+  <Project Path="Exercices/Exercices.Core.csproj" />
   <Project Path="Exercice_01.Test/Exercice_01.Test.csproj" />
   <Project Path="Exercice_02.Test/Exercice_02.Test.csproj" Id="7c3e3466-3edc-4fd3-9f64-35073c719663" />
   <Project Path="Exercice_03.Test/Exercice_03.Test.csproj" Id="b9d02583-880e-428d-b3dd-9ca84bb5354e" />
