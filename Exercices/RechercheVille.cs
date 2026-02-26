@@ -10,6 +10,8 @@ namespace Exercices
 
         public List<String> Rechercher(String mot)
         {
+
+            return _villes;
             throw new NotImplementedException();
         }
     }
