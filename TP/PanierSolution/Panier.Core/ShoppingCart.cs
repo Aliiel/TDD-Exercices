@@ -7,6 +7,9 @@ namespace Panier.Core
 {
     public sealed class ShoppingCart
     {
+
+        List<CartItem> Cart = new List<CartItem>();
+
         public int GetItemCount()
         {
             throw new NotImplementedException();
