@@ -39,7 +39,7 @@ namespace Panier.Core
 
         public void ApplyDiscount(decimal percentage)
         {
-            throw new NotImplementedException();
+            if (_cart.Count == 0) throw new EmptyCartApplyDiscountException("Impossible d'appliquer une remise sur un panier vide");
         }
     }
 }
