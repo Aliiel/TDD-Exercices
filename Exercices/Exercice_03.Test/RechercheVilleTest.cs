@@ -1,4 +1,4 @@
-using Exercices;
+using Exercices.Core.Exercice_03.Models;
 using Exercices.Exceptions;
 
 namespace Exercice_03.Test;

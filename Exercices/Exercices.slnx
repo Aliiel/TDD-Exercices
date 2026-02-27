@@ -3,4 +3,5 @@
   <Project Path="Exercice_01.Test/Exercice_01.Test.csproj" />
   <Project Path="Exercice_02.Test/Exercice_02.Test.csproj" Id="7c3e3466-3edc-4fd3-9f64-35073c719663" />
   <Project Path="Exercice_03.Test/Exercice_03.Test.csproj" Id="b9d02583-880e-428d-b3dd-9ca84bb5354e" />
+  <Project Path="Exercice_04.Tests/Exercice_04.Tests.csproj" Id="1228de3b-5ef5-4fcd-87c2-4a3696ec87a5" />
 </Solution>

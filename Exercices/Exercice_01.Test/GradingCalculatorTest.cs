@@ -1,3 +1,5 @@
+using Exercices.Core.Exercice_01.Models;
+
 namespace Exercice_01.Test;
 
 [TestClass]

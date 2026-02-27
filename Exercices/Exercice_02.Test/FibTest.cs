@@ -1,4 +1,4 @@
-using Exercice_01;
+using Exercices.Core.Exercice_02.Models;
 using System.Collections;
 
 namespace Exercice_02.Test;

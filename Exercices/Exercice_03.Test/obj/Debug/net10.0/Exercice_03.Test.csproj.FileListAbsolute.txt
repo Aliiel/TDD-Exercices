@@ -269,8 +269,8 @@ C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\obj\D
 C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\obj\Debug\net10.0\ref\Exercice_03.Test.dll
 C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\.msCoverageExtensionSourceRootsMapping_Exercice_03.Test
 C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\.msCoverageSourceRootsMapping_Exercice_03.Test
-C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\ExercicesCore.deps.json
-C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\ExercicesCore.runtimeconfig.json
-C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\ExercicesCore.exe
-C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\ExercicesCore.dll
-C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\ExercicesCore.pdb
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\Exercices.Core.deps.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\Exercices.Core.runtimeconfig.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\Exercices.Core.exe
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\Exercices.Core.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercices\Exercice_03.Test\bin\Debug\net10.0\Exercices.Core.pdb

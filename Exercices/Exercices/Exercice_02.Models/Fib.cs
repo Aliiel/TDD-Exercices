@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercice_01
+namespace Exercices.Core.Exercice_02.Models
 {
     public class Fib
     {
